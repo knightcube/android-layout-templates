@@ -15,8 +15,8 @@ Any other reusable components
 
 ## Contribution
 - Create a PR with an xml file and also add a screenshot of your layout
-- Add your xml file
-- Add a screenshot of your layout
+- Add your xml file in `"xml_code folder"` of this repository
+- Add a screenshot of your layout in the `"screenshots"` folder of this repository
 - Please save your layout's name and xml code with the same name for easier navigation
 
 ## Creating an issue

@@ -17,3 +17,7 @@ Any other reusable components
 - Create a PR with an xml file and also add a screenshot of your layout
 - Add your xml file
 - Add a screenshot of your layout
+- Please save your layout's name and xml code with the same name for easier navigation
+
+## Creating an issue
+- Feel free to create an issue if you have better ideas in order to improve anything in this repository

@@ -10,6 +10,7 @@ This repository aims at simpliifying the load of developing various layouts in a
 - Login pages
 - OnBoarding screens
 - Bottom sheet design
+
 Any other reusable components
 
 ## Contribution

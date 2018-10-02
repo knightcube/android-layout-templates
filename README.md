@@ -22,3 +22,4 @@ Any other reusable components
 
 ## Creating an issue
 - Feel free to create an issue if you have better ideas in order to improve anything in this repository
+- [Check out the sample issue](https://github.com/knightcube/android-layout-templates/issues/3)

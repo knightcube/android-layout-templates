@@ -17,6 +17,7 @@ Any other reusable components
 - Create a PR with an xml file and also add a screenshot of your layout
 - Add your xml file in `"xml_code folder"` of this repository
 - Add a screenshot of your layout in the `"screenshots"` folder of this repository
+- Add your custom fonts in `"fonts"` directory. Make sure you don't duplicate a font. Naming for font `Product Sans.ttf` should be `product_sans.ttf` as an example.
 - Please save your screenshot's name and xml layout file(with the code) with the same name for easier navigation
 
 ## Creating an issue

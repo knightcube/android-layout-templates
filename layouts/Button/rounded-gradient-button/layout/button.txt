@@ -1,0 +1,12 @@
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/open_recipe_app_btn"
+    android:text="Open App"
+    android:textColor="@color/ghostWhite"
+    android:background="@drawable/button_border"
+    android:layout_margin="32dp"
+
+    android:layout_alignBottom="@id/widget_list_lv"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentRight="true" />
